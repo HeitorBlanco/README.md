@@ -1,6 +1,4 @@
-# Teste
-Primeira interação com o GitHub
+# Olá, eu sou o Heitor.
+Técnico em Informática no IFRO  
+Estudando C#.
 
-Heitor Blanco de Matos.
-
-heitorblanco1111@gmail.com
